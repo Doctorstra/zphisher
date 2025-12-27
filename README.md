@@ -42,12 +42,13 @@ apt update ; apt install git curl php openssh-server -y ; git clone git://github
 #### > UndeadSec (https://github.com/UndeadSec)
 #### > Equinockx (https://github.com/MoisesTapia)
 
-# git clone repo https://github.com/zphisher
+# git clone repo https://github.com/doctorstra/zphisher
 # cd zphisher
 # ls
 # ./zphisher.sh
 # Use Kali Linux 🔥
 # use serveo.net to port local host
+
 
 
 
