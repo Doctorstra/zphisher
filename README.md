@@ -47,5 +47,7 @@ apt update ; apt install git curl php openssh-server -y ; git clone git://github
 # ls
 # ./zphisher.sh
 # Use Kali Linux 🔥
+# use serveo.net to port local host
+
 
 
