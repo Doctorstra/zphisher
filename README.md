@@ -17,13 +17,6 @@
 <a href="https://github.com/htr-tech/zphisher/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/htr-tech/zphisher?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
-## Installation :
-
-* `apt update`
-* `apt install git curl php openssh-server -y`
-* `git clone git://github.com/htr-tech/zphisher.git`
-* `cd zphisher`
-#### > Run : `bash zphisher.sh`
 
 ## Single Command :
 ```
@@ -49,15 +42,10 @@ apt update ; apt install git curl php openssh-server -y ; git clone git://github
 #### > UndeadSec (https://github.com/UndeadSec)
 #### > Equinockx (https://github.com/MoisesTapia)
 
-## Tunelling Options :
-#### > Localhost (127.0.0.1)
-#### > NGROK (https://ngrok.com)
-#### > SERVEO (https://serveo.net)
-#### > LOCALHOSTRUN (https://localhost.run)
-
-## Find Me on :
-[![Github](https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github)](https://github.com/htr-tech)
-[![Instagram](https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/tahmid.rayat)
-[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/tahmid.rayat.official)
+# git clone repo https://github.com/zphisher
+# cd zphisher
+# ls
+# ./zphisher.sh
+# Use Kali Linux 🔥
 
 
